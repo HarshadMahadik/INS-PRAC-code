@@ -1,0 +1,3 @@
+# https://www.cryptool.org/en/cto/openssl or search cryptool openssl
+# in cmd of website type - openssl req -x509 -sha256 -nodes -newkey rsa:2048 -keyout localhost.key -out localhost.crt -days 365
+# go down click files and download all three files
